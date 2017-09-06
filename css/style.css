@@ -72,6 +72,7 @@ header {
 
 .main-content h2 {
     margin-top: 50px;
+    margin-bottom: 25px;
 }
 
 @media only screen and (max-device-width: 768px) {
