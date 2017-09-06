@@ -7,7 +7,7 @@ header {
       rgba(0, 0, 0, 0.4)
     ),
     /* bottom, image */
-    url('http://placehold.it/1920x1280');
+    url('../img/ilya-pavlov-87438.jpg');
 
   background-size: cover;
   background-position: center;
@@ -66,8 +66,13 @@ img#foto {
 .like-table-cell { display: table-cell }
 .valign-middle { vertical-align: middle }
 
+header {
+    color: #fff;
+}
+
 @media only screen and (max-device-width: 768px) {
   .navbar .divider-vertical {
     display: none;
   }
+
 }
