@@ -60,3 +60,14 @@ img#foto {
     max-width: 250px;
     max-height: 250px;
 }
+
+.like-table { display: table }
+.like-table-row { display: table-row }
+.like-table-cell { display: table-cell }
+.valign-middle { vertical-align: middle }
+
+@media only screen and (max-device-width: 768px) {
+  .navbar .divider-vertical {
+    display: none;
+  }
+}
