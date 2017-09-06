@@ -70,6 +70,10 @@ header {
     color: #fff;
 }
 
+.main-content h2 {
+    margin-top: 50px;
+}
+
 @media only screen and (max-device-width: 768px) {
   .navbar .divider-vertical {
     display: none;
