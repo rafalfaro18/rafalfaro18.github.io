@@ -74,10 +74,3 @@ header {
     margin-top: 50px;
     margin-bottom: 25px;
 }
-
-@media only screen and (max-device-width: 768px) {
-  .navbar .divider-vertical {
-    display: none;
-  }
-
-}
