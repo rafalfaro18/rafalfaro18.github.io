@@ -76,10 +76,14 @@ header {
 }
 
 span.stars {
-    right: 30px;
+    right: 20px;
     position: absolute;
 }
 
 ul.abilities {
     list-style-type: none;
+}
+
+ul.abilities li:nth-child(odd) {
+    background-color: lightgray;
 }
