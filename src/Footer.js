@@ -11,6 +11,7 @@ class Footer extends Component {
         return (
         <div className="container-fluid rar-footer-component" style={divStyle}>
             <p>This is the footer section</p>
+            <br/>
         </div>
         );
     }

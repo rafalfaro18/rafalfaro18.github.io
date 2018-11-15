@@ -12,6 +12,7 @@ class Experience extends Component {
         return (
         <div className="container-fluid rar-experience-component" style={divStyle}>
             <p>This is the experience section</p>
+            <br/>
         </div>
         );
     }

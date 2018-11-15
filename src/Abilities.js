@@ -5,6 +5,7 @@ class Abilities extends Component {
       return (
         <div className="container-fluid rar-abilities-component">
             <p>This is the abilities section</p>
+            <br/>
         </div>
       );
     }

@@ -12,6 +12,7 @@ class Projects extends Component {
         return (
         <div className="container-fluid rar-projects-component" style={divStyle}>
             <p>This is the projects section</p>
+            <br/>
         </div>
         );
     }

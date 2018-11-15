@@ -5,6 +5,7 @@ class Profile extends Component {
       return (
         <div className="container-fluid rar-profile-component">
             <p>This is the profile section</p>
+            <br/>
         </div>
       );
     }
