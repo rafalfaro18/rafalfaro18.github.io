@@ -4,6 +4,7 @@ import Header from './Header';
 import Profile from './Profile';
 import Experience from './Experience';
 import Abilities from './Abilities';
+import Projects from './Projects';
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <Profile/>
         <Experience/>
         <Abilities/>
+        <Projects/>
       </div>
     );
   }
