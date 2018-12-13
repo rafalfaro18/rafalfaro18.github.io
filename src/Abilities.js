@@ -17,7 +17,7 @@ class Abilities extends Component {
             </div>
           </div>
           <div className="text-center row">
-            <p className="w-100">Comming Soon...</p>
+            <p className="w-100">Coming Soon...</p>
           </div>
         </div>
       );
