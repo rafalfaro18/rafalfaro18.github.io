@@ -4,6 +4,8 @@ const hrStyle = {
     borderColor: '#000'
 };
 
+const profileImage = require('./assets/img/rafael_alfaro.jpg');
+
 class Profile extends Component {
     render() {
       return (
