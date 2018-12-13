@@ -23,6 +23,9 @@ class Experience extends Component {
                     <hr style={hrStyle} className="w-100"/>
                 </div>
             </div>
+            <div className="text-center row">
+                <p className="w-100">Comming Soon...</p>
+            </div>
         </div>
         );
     }
