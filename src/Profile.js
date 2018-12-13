@@ -10,6 +10,7 @@ class Profile extends Component {
         <div className="container-fluid rar-profile-component">
           <div className="text-center row">
             <h2 className="w-100">Profile</h2>
+            <p className="w-100">I'm a Web Systems Engineer</p>
           </div>
           <div className="row">
             <div className="col-8 offset-2">
