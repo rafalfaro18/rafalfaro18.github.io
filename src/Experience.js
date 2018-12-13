@@ -14,7 +14,7 @@ const hrStyle = {
 class Experience extends Component {
     render(){
         return (
-        <div className="container-fluid rar-experience-component" style={divStyle}>
+        <div className="pt-4 pb-4 container-fluid rar-experience-component" style={divStyle}>
             <div className="text-center row">
                 <h2 className="w-100">Experiences</h2>
             </div>

@@ -19,7 +19,7 @@ const imgMyProject4 = require('./assets/img/www.tabacon.com.png');
 class Projects extends Component {
     render(){
         return (
-        <div className="container-fluid rar-projects-component" style={divStyle}>
+        <div className="pt-4 pb-4 container-fluid rar-projects-component" style={divStyle}>
             <div className="text-center row">
                 <h2 className="w-100">Projects</h2>
             </div>

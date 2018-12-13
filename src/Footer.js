@@ -18,7 +18,7 @@ const linkStyle = {
 class Footer extends Component {
     render(){
         return (
-        <div className="container-fluid rar-footer-component" style={divStyle}>
+        <div className="pt-4 pb-4 container-fluid rar-footer-component" style={divStyle}>
             <div className="text-center row">
                 <h2 className="w-100 text-white">Contact</h2>
             </div>

@@ -7,7 +7,7 @@ const hrStyle = {
 class Abilities extends Component {
     render() {
       return (
-        <div className="container-fluid rar-abilities-component">
+        <div className="pt-4 pb-4 container-fluid rar-abilities-component">
           <div className="text-center row">
             <h2 className="w-100">Abilities</h2>
           </div>
