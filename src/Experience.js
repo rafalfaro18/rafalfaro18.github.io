@@ -24,7 +24,7 @@ class Experience extends Component {
                 </div>
             </div>
             <div className="text-center row">
-                <p className="w-100">Coming Soon...</p>
+                <p className="w-100">Coming Soon... See on <a href="https://www.linkedin.com/in/rafalfaro18">linkedin</a></p>
             </div>
         </div>
         );
