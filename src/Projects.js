@@ -11,6 +11,11 @@ const hrStyle = {
     borderColor: '#fff'
 };
 
+const imgMyProject1 = require('./assets/img/marriott-hotels.marriott.com_marriott-hotels-ted.png');
+const imgMyProject2 = require('./assets/img/www.enchanting-costarica.com.png');
+const imgMyProject3 = require('./assets/img/www.stayincostarica.com.png');
+const imgMyProject4 = require('./assets/img/www.tabacon.com.png');
+
 class Projects extends Component {
     render(){
         return (
@@ -21,6 +26,20 @@ class Projects extends Component {
             <div className="row">
                 <div className="col-8 offset-2">
                     <hr style={hrStyle} className="w-100"/>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-md-4 offset-md-2 mt-2 pb-2">
+                    <img alt="" className="img-fluid" src={imgMyProject1} />
+                </div>
+                <div className="col-md-4 mt-2 pb-2">
+                    <img alt="" className="img-fluid" src={imgMyProject2} />
+                </div>
+                <div className="col-md-4 offset-md-2 mt-2 pb-2">
+                    <img alt="" className="img-fluid" src={imgMyProject3} />
+                </div>
+                <div className="col-md-4 mt-2 pb-2">
+                    <img alt="" className="img-fluid" src={imgMyProject4} />
                 </div>
             </div>
         </div>
