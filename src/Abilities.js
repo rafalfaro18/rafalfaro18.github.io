@@ -57,6 +57,11 @@ class Abilities extends Component {
             </div>
           </div>
           <div className="row">
+            <div className="text-center mx-auto mt-4 mb-4">
+              <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href="https://github.com/rafalfaro18">GitHub Profile</a>
+            </div>
+          </div> 
+          <div className="row">
             <div className="col-md-2 offset-md-2">
               <h4>Languages</h4>
             </div>
