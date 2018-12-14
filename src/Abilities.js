@@ -23,7 +23,7 @@ class Abilities extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-md-4 offset-md-2">
+            <div className="col-md-12 col-lg-4 offset-lg-2">
               <p>Linux <Rating count="5"/></p>
               <p>Web Development <Rating count="5"/></p>
               <p>PHP <Rating count="5"/></p>
@@ -39,7 +39,7 @@ class Abilities extends Component {
               <p>Java <Rating count="4"/></p>
               <p>C# <Rating count="4"/></p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-12 col-lg-4">
               <p>Networking & DevOps <Rating count="4"/></p>
               <p>AWS EC2 <Rating count="4"/></p>
               <p>Game Development <Rating count="4"/></p>
