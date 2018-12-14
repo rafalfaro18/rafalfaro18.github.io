@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Rating from './Rating';
 
 const hrStyle = {
   borderColor: '#000'
