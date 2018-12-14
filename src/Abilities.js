@@ -70,6 +70,35 @@ class Abilities extends Component {
               <p>Costa Rican Sign Language (LESCO) <Rating count="4"/></p>
             </div>
           </div>
+          <div className="row">
+            <div className="col-md-2 offset-md-2">
+              <h4>Tools</h4>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-md-12 col-lg-4 offset-lg-2">
+              <p>Windows & MS Office <Rating count="5" /></p>
+              <p>Git & Git Flow <Rating count="5" /></p>
+              <p>Lando <Rating count="5" /></p>
+              <p>MacOS <Rating count="5" /></p>
+              <p>Photoshop & Gimp <Rating count="5" /></p>
+              <p>PHPCS <Rating count="5" /></p>
+              <p>Docker <Rating count="4" /></p>
+              <p>Premiere <Rating count="4" /></p>
+              <p>PHP Storm <Rating count="4" /></p>
+            </div>
+            <div className="col-md-12 col-lg-4">
+              <p>Visual Studio & Code <Rating count="4" /></p>
+              <p>Jira <Rating count="3" /></p>
+              <p>Jenkins <Rating count="3" /></p>
+              <p>Selenium <Rating count="3" /></p>
+              <p>Puppeteer <Rating count="3" /></p>
+              <p>Maya <Rating count="3" /></p>
+              <p>Unity <Rating count="3" /></p>
+              <p>Illustrator & Inkscape <Rating count="3" /></p>
+              <p>Netbeans <Rating count="3" /></p>
+            </div>
+          </div>
         </div>
       );
     }
