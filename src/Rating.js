@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
 
+const ratingStyle = {
+    display: "inline-block",
+    float: "right" 
+};
+
 class Rating extends Component {
     render() {
         var stars = [];
@@ -8,7 +13,7 @@ class Rating extends Component {
         }
 
       return (
-        stars
+        <div style={ratingStyle} className="rating">{stars}</div>
       );
     }
   }
