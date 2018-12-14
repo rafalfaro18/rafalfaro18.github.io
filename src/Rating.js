@@ -8,7 +8,7 @@ class Rating extends Component {
         }
 
       return (
-        <div className="rating">{stars}</div>
+        stars
       );
     }
   }
