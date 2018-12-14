@@ -17,9 +17,6 @@ class Abilities extends Component {
                 <hr style={hrStyle} className="w-100"/>
             </div>
           </div>
-          <div className="text-center row">
-            <p className="w-100">See on <a href="https://www.linkedin.com/in/rafalfaro18">linkedin</a></p>
-          </div>
           <div className="row">
             <div className="col-md-2 offset-md-2">
               <h4>Skills</h4>
