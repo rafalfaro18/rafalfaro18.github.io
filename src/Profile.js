@@ -19,7 +19,7 @@ class Profile extends Component {
               <hr style={hrStyle} className="w-100"/>
             </div>
           </div>
-          <div className="row">
+          <div className="row align-items-center">
             <div className="col-md-3 offset-md-2 col-sm-12 text-center">
               <img alt="" className="img-fluid rounded-circle" src={profileImage} />
             </div>
