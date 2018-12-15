@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React from 'react';
+import { withNamespaces } from 'react-i18next';
 
 const hrStyle = {
     borderColor: '#000'
@@ -6,12 +7,11 @@ const hrStyle = {
 
 const profileImage = require('./assets/img/rafael_alfaro.jpg');
 
-class Profile extends Component {
-    render() {
+function Profile({ t }) {
       return (
         <div className="pt-4 pb-4 container-fluid rar-profile-component">
           <div className="text-center row">
-            <h2 className="w-100">Profile</h2>
+            <h2 className="w-100">{t('ProfileTitle')}</h2>
             <p className="w-100">I'm a Web Systems Engineer</p>
           </div>
           <div className="row">
@@ -36,6 +36,5 @@ class Profile extends Component {
         </div>
       );
     }
-  }
   
-  export default Profile;
+  export default withNamespaces()(Profile);
