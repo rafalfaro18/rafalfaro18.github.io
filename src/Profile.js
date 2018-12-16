@@ -12,7 +12,7 @@ function Profile({ t }) {
         <div className="pt-4 pb-4 container-fluid rar-profile-component">
           <div className="text-center row">
             <h2 className="w-100">{t('ProfileTitle')}</h2>
-            <p className="w-100">I'm a Web Systems Engineer</p>
+            <p className="w-100">{t('Profession')}</p>
           </div>
           <div className="row">
             <div className="col-8 offset-2">
