@@ -25,7 +25,7 @@ function Profile({ t }) {
             </div>
             <div className="text-center col-md-5">
               <h4 className="w-100">{t('About me')}</h4>
-              <p className="w-100">I’m a web systems engineer and WordPress Enthusiast. I’m Costa Rican but I’m also fluent in english. I’m not the typical geek, i’m outgoing and very social. However I do love video games but also traveling, craft beer and all sorts of food. I like beeing part of interesting and challenging projects that bring out the best of me and my abilities as an engineer.</p>
+              <p className="w-100">{t('my description')}</p>
             </div>
           </div>
           <div className="row">
