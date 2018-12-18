@@ -26,7 +26,7 @@ function Experience({ t }){
         </div>
         <div className="row">
             <div className="col-md-2 offset-md-2">
-                <h4>Education</h4>
+                <h4>{t('Education')}</h4>
             </div>
         </div>
         <div className="row">
@@ -34,7 +34,7 @@ function Experience({ t }){
                 <strong>Universidad Nacional</strong>
             </div>
             <div className="col-md-5 offset-md-1">
-                <strong>Licentiate - Computer Science (Specialization: Web Systems)</strong>
+                <strong>{t('LastEducation')}</strong>
             </div>
         </div>
         <div className="row">
