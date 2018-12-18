@@ -30,7 +30,7 @@ function Profile({ t }) {
           </div>
           <div className="row">
             <div className="text-center mx-auto mb-4">
-              <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href="https://docs.google.com/document/d/1nmJ-xjhzjXZ5o7FGsLGMZmVV-dihPPN63EVRm9uvciI/export?format=pdf">{t('Download resume')}</a>
+              <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href={t('ResumeURL')}>{t('Download resume')}</a>
             </div>
           </div>  
         </div>
