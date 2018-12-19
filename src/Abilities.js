@@ -78,7 +78,7 @@ const hrStyle = {
         </div>
         <div className="row">
           <div className="col-md-2 offset-md-2">
-            <h4>Tools</h4>
+            <h4>{t('Tools')}</h4>
           </div>
         </div>
         <div className="row">
@@ -101,7 +101,7 @@ const hrStyle = {
             <p>Puppeteer <Rating count="3" /></p>
             <p>Maya <Rating count="3" /></p>
             <p>Unity <Rating count="3" /></p>
-            <p>Illustrator {t('&')} Inkscape <Rating count="3" /></p>
+            <p>{t('Illustrator & Inkscape')} <Rating count="3" /></p>
             <p>Netbeans <Rating count="3" /></p>
           </div>
         </div>
