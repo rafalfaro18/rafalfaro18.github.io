@@ -15,8 +15,17 @@ import Footer from './Footer';
       i18n.changeLanguage(lng);
     }
 
-    //For debugging
-    window.foo = changeLanguage;
+    const langStyle = {
+      position : "fixed",
+      top : "0",
+      backgroundColor: "rgba(0,0,0,0.4)"
+    };
+
+    const langBtnStyle = {
+      backgroundColor : "transparent",
+      color: "#fff",
+      border: "1px solid #fff"
+    };
     
     return (
       <div className="App h-100">
@@ -26,6 +35,10 @@ import Footer from './Footer';
         <Abilities/>
         <Projects/>
         <Footer/>
+        <div style={langStyle} className="lang-switcher">
+          <button style={langBtnStyle} onClick={() => changeLanguage('es')}>es</button>
+          <button style={langBtnStyle} onClick={() => changeLanguage('en')}>en</button>
+        </div>
       </div>
     );
   }
