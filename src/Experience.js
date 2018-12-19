@@ -87,7 +87,7 @@ function Experience({ t }){
         </div>
         <div className="row">
             <div className="col-md-2 offset-md-2">
-                <h4>Careers</h4>
+                <h4>{t('Careers')}</h4>
             </div>
         </div>
         <div className="row">
