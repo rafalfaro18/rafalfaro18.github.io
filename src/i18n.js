@@ -20,8 +20,6 @@ i18n
     resources,
     lng: "en",
 
-    keySeparator: false, // we do not use keys in form messages.welcome
-
     interpolation: {
       escapeValue: false // react already safes from xss
     }
