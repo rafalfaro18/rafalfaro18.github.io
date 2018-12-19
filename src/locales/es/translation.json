@@ -15,6 +15,10 @@
     "2" : {
       "Title" : "Bachillerato - Ingeniería en Sistemas",
       "Description" : "Educación principalmente teórica. También hice un proyecto para una escuela privada llamada 'Kid's Land' que consistió en crear un sitio web con Joomla y un aula virtual con Moodle. Aprendí C#, Visual Basic, Python, Administración de Servidores Linux, Desarrollo Web y Diseño de Aplicaciones Educativas."
+    },
+    "3" : {
+      "Title" : "Diplomado - Ingeniería en Sistemas",
+      "Description" : "Educación principalmente basada en programación con C++, pero también aprendí HTML, CSS, PHP, MVC, UML, Java, Redes, Bases de Datos, Linux, Soporte Técnico, Programación Orientada a Objetos, Inglés, Cálculo, Algebra Lineal, Probabilidad y Estadística, Matemática Discreta, entre otros cursos."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1HBoIXgjFtTr92RjTrpF2dN033OOEuj5h1ZKXDrZhOSE/export?format=pdf"
