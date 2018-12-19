@@ -36,7 +36,7 @@ const hrStyle = {
             <p>Joomla <Rating count="5"/></p>
             <p>Node JS <Rating count="4"/></p>
             <p>C++ <Rating count="4"/></p>
-            <p>Website Malware Removal <Rating count="4"/></p>
+            <p>{t('Website Malware Removal')} <Rating count="4"/></p>
             <p>Java <Rating count="4"/></p>
             <p>C# <Rating count="4"/></p>
           </div>
