@@ -1,5 +1,6 @@
 
-import React, {Component} from 'react';
+import React from 'react';
+import { withNamespaces } from 'react-i18next';
 
 const section_color = '#cad2c5';
 
@@ -16,12 +17,11 @@ const imgMyProject2 = require('./assets/img/www.enchanting-costarica.com.png');
 const imgMyProject3 = require('./assets/img/www.stayincostarica.com.png');
 const imgMyProject4 = require('./assets/img/www.tabacon.com.png');
 
-class Projects extends Component {
-    render(){
+    function Projects({ t }){
         return (
         <div className="pt-4 pb-4 container-fluid rar-projects-component" style={divStyle}>
             <div className="text-center row">
-                <h2 className="w-100">Projects</h2>
+                <h2 className="w-100">{t('Projects')}</h2>
             </div>
             <div className="row">
                 <div className="col-8 offset-2">
@@ -45,6 +45,5 @@ class Projects extends Component {
         </div>
         );
     }
-}
 
-export default Projects;
+export default withNamespaces()(Projects);

@@ -1,4 +1,5 @@
-import React, {Component} from 'react';
+import React from 'react';
+import { withNamespaces } from 'react-i18next';
 
 const section_color = '#495054';
 
@@ -15,12 +16,11 @@ const linkStyle = {
     margin: '0 10px'
 };
 
-class Footer extends Component {
-    render(){
+    function Footer({ t }){
         return (
         <div className="pt-4 pb-4 container-fluid rar-footer-component" style={divStyle}>
             <div className="text-center row">
-                <h2 className="w-100 text-white">Contact</h2>
+                <h2 className="w-100 text-white">{t('Contact')}</h2>
             </div>
             <div className="row">
                 <div className="col-8 offset-2">
@@ -49,6 +49,5 @@ class Footer extends Component {
         </div>
         );
     }
-}
 
-export default Footer;
+export default withNamespaces()(Footer);
