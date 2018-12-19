@@ -12,10 +12,10 @@ const hrStyle = {
     borderColor: '#fff'
 };
 
-const imgMyProject1 = require('./assets/img/marriott-hotels.marriott.com_marriott-hotels-ted.png');
-const imgMyProject2 = require('./assets/img/www.enchanting-costarica.com.png');
-const imgMyProject3 = require('./assets/img/www.stayincostarica.com.png');
-const imgMyProject4 = require('./assets/img/www.tabacon.com.png');
+const imgMyProject1 = require('./assets/img/marriott-hotels.marriott.com_marriott-hotels-ted.jpg');
+const imgMyProject2 = require('./assets/img/www.enchanting-costarica.com.jpg');
+const imgMyProject3 = require('./assets/img/www.stayincostarica.com.jpg');
+const imgMyProject4 = require('./assets/img/www.tabacon.com.jpg');
 
     function Projects({ t }){
         return (
