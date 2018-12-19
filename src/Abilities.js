@@ -41,7 +41,7 @@ const hrStyle = {
             <p>C# <Rating count="4"/></p>
           </div>
           <div className="col-md-12 col-lg-4">
-            <p>Networking {t('&')} DevOps <Rating count="4"/></p>
+            <p>{t('Networking')} {t('&')} DevOps <Rating count="4"/></p>
             <p>AWS EC2 <Rating count="4"/></p>
             <p>Game Development <Rating count="4"/></p>
             <p>Test Automation <Rating count="4"/></p>
