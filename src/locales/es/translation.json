@@ -11,6 +11,10 @@
     "1" : {
       "Title" : "Licenciatura - Ingeniería en Sistemas (énfasis en Sistemas Web)",
       "Description" : "Educación enfocada en el desarrollo web con PHP, HTML, CSS, Javascipt, Ajax, Apache, MySQL, jQuery. Aquí hice mi proyecto de tesis: 'PIEUNA' una red social para egresados de la Universidad Nacional basada en Joomla. También aprendí sobre Administración de Proyectos y Diseño de Investigaciones."
+    },
+    "2" : {
+      "Title" : "Bachillerato - Ingeniería en Sistemas",
+      "Description" : "Educación principalmente teórica. También hice un proyecto para una escuela privada llamada 'Kid's Land' que consistió en crear un sitio web con Joomla y un aula virtual con Moodle. Aprendí C#, Visual Basic, Python, Administración de Servidores Linux, Desarrollo Web y Diseño de Aplicaciones Educativas."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1HBoIXgjFtTr92RjTrpF2dN033OOEuj5h1ZKXDrZhOSE/export?format=pdf"

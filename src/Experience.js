@@ -51,7 +51,7 @@ function Experience({ t }){
                 <strong>Universidad Nacional</strong>
             </div>
             <div className="col-md-5 offset-md-1">
-                <strong>Bachelor - Computer Science</strong>
+                <strong>{t('Educations.2.Title')}</strong>
             </div>
         </div>
         <div className="row">
@@ -59,7 +59,7 @@ function Experience({ t }){
                 <p>Feb 2014 - Nov 2014</p>
             </div>
             <div className="col-md-5 offset-md-1">
-                <p>Education was mainly theoretical. However I also did a project for a private school called 'Kid's Land' that involved creating a website with Joomla and a virtual classroom with Moodle. I learned C#, Visual Basic, Python, Linux Servers Administration, Web Development and Educational Applications design.</p>
+                <p>{t('Educations.2.Description')}</p>
                 <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg> Costa Rica</p>
             </div>
         </div>
