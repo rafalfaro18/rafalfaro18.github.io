@@ -34,7 +34,7 @@ function Experience({ t }){
                 <strong>Universidad Nacional</strong>
             </div>
             <div className="col-md-5 offset-md-1">
-                <strong>{t('LastEducation')}</strong>
+                <strong>{t('Educations.1.Title')}</strong>
             </div>
         </div>
         <div className="row">
@@ -42,7 +42,7 @@ function Experience({ t }){
                 <p>Feb 2015 - Jun 2016</p>
             </div>
             <div className="col-md-5 offset-md-1">
-                <p>Education was web development focused with PHP, HTML, CSS, Javascipt, Ajax, Apache, MySQL, jQuery. During this time in university I specialized in web development. Here I did my thesis project: 'PIEUNA' a Joomla based social network for Universidad Nacional alumni. I also learned about Project Management and Research Design.</p>
+                <p>{t('Educations.1.Description')}</p>
                 <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg> Costa Rica</p>
             </div>
         </div>
