@@ -21,5 +21,15 @@
       "Description" : "Education was mainly C++ based programming but I also learned about HTML, CSS, PHP, MVC, UML, Java, Networking, Database Administration, Linux, Tech Support, Object Oriented Programming, English, Calculus, Linear Algebra, Probability and Statistics, Discrete Mathematics and more."
     }
   },
+  "CareersExp" : {
+    "1" : {
+      "Title" : "Full-time - Back-end Developer",
+      "Description" : "I worked as a Back-end Developer in projects like Marriott-Hotels.com, GBC-Education.org and more. Mostly using technologies such as Laravel, WordPress, SASS, Javascript, Node, Gulp, Bower, PHP, Lando, Docker, Pantheon, WP-Engine, Jenkins and more. I also was introduced to working with Git Flow, coding standards and code reviews."
+    },
+    "2" : {
+      "Title" : "Full-time - Senior Web Master",
+      "Description" : "I learned a lot of website security and monitoring, malware removal, SEO optimization, website development with CMS, Joomla and WordPress plugin and theme development from scratch, Linux Server Management, Bash Scripting, WHM/Cpanel and more. I implemented usage of GIT for collaborative development."
+    }
+  },
   "ResumeURL" : "https://docs.google.com/document/d/1nmJ-xjhzjXZ5o7FGsLGMZmVV-dihPPN63EVRm9uvciI/export?format=pdf"
 }
