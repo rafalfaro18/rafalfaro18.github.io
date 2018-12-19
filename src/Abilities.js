@@ -64,16 +64,16 @@ const hrStyle = {
         </div> 
         <div className="row">
           <div className="col-md-2 offset-md-2">
-            <h4>Languages</h4>
+            <h4>{t('Languages')}</h4>
           </div>
         </div>
         <div className="row">
           <div className="col-md-12 col-lg-4 offset-lg-2">
-            <p>English <Rating count="5"/></p>
-            <p>Spanish (Native) <Rating count="5"/></p>
+            <p>{t('English')} <Rating count="5"/></p>
+            <p>{t('Spanish')} ({t('Native')}) <Rating count="5"/></p>
           </div>
           <div className="col-md-12 col-lg-4">
-            <p>Costa Rican Sign Language (LESCO) <Rating count="4"/></p>
+            <p>{t('Costa Rican Sign Language')} (LESCO) <Rating count="4"/></p>
           </div>
         </div>
         <div className="row">
