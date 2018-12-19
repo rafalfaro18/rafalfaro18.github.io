@@ -20,7 +20,7 @@ const hrStyle = {
         </div>
         <div className="row">
           <div className="col-md-2 offset-md-2">
-            <h4>Skills</h4>
+            <h4>{t('Skills')}</h4>
           </div>
         </div>
         <div className="row">
