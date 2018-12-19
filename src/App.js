@@ -15,6 +15,7 @@ import Footer from './Footer';
       i18n.changeLanguage(lng);
     }
 
+    //For debugging
     window.foo = changeLanguage;
     
     return (
