@@ -59,7 +59,7 @@ const hrStyle = {
         </div>
         <div className="row">
           <div className="text-center mx-auto mt-4 mb-4">
-            <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href="https://github.com/rafalfaro18">GitHub Profile</a>
+            <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href="https://github.com/rafalfaro18">{t('GitHub Profile')}</a>
           </div>
         </div> 
         <div className="row">
