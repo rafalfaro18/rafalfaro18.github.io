@@ -30,6 +30,10 @@
     "2" : {
       "Title" : "Full-time - Senior Web Master",
       "Description" : "I learned a lot of website security and monitoring, malware removal, SEO optimization, website development with CMS, Joomla and WordPress plugin and theme development from scratch, Linux Server Management, Bash Scripting, WHM/Cpanel and more. I implemented usage of GIT for collaborative development."
+    },
+    "3" : {
+      "Title" : "Full-time - Front-end WordPress Developer",
+      "Description" : "In this job I worked using all the skills I learned on previous jobs but also started to work more on fron-end tasks. Here I learned about GIT submodules, building custom navwalkers for WordPress, extending WordPress Parent Themes, Webpack and building/deploying custom Docker images."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1nmJ-xjhzjXZ5o7FGsLGMZmVV-dihPPN63EVRm9uvciI/export?format=pdf",
