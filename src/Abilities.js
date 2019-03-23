@@ -39,9 +39,9 @@ const hrStyle = {
             <p>{t('Website Malware Removal')} <Rating count="4"/></p>
             <p>Java <Rating count="4"/></p>
             <p>C# <Rating count="4"/></p>
+            <p>{t('Networking')} {t('&')} DevOps <Rating count="4"/></p>
           </div>
           <div className="col-md-12 col-lg-4">
-            <p>{t('Networking')} {t('&')} DevOps <Rating count="4"/></p>
             <p>AWS EC2 <Rating count="4"/></p>
             <p>{t('Game Development')} <Rating count="4"/></p>
             <p>{t('Test Automation')} <Rating count="4"/></p>
@@ -55,6 +55,8 @@ const hrStyle = {
             <p>Visual Basic <Rating count="2"/></p>
             <p>SEO <Rating count="2"/></p>
             <p>.NET <Rating count="1"/></p>
+            <p>React <Rating count="1"/></p>
+            <p>Angular <Rating count="1"/></p>
           </div>
         </div>
         <div className="row">
