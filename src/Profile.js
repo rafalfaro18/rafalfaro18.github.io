@@ -26,13 +26,11 @@ function Profile({ t }) {
             <div className="text-center col-md-5">
               <h4 className="w-100">{t('About me')}</h4>
               <p className="w-100">{t('my description')}</p>
+              <div className="text-center mx-auto mb-4">
+                <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href={t('ResumeURL')}>{t('Download resume')}</a>
+              </div>
             </div>
           </div>
-          <div className="row">
-            <div className="text-center mx-auto mb-4">
-              <a className="btn btn-info" rel="noopener noreferrer" target="_blank" href={t('ResumeURL')}>{t('Download resume')}</a>
-            </div>
-          </div>  
         </div>
       );
     }
