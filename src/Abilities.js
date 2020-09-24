@@ -91,7 +91,7 @@ const hrStyle = {
             <p>MacOS <Rating count="5" /></p>
             <p>Photoshop {t('&')} Gimp <Rating count="5" /></p>
             <p>PHPCS <Rating count="5" /></p>
-            <p>Docker <Rating count="4" /></p>
+            <p>Docker - Kubernetes <Rating count="4" /></p>
             <p>Premiere <Rating count="4" /></p>
             <p>PHP Storm <Rating count="4" /></p>
           </div>
