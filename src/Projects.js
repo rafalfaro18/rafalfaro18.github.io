@@ -21,7 +21,7 @@ const imgMyProject4 = require('./assets/img/www.tabacon.com.jpg');
         return (
         <div className="pt-4 pb-4 container-fluid rar-projects-component" style={divStyle}>
             <div className="text-center row">
-                <h2 className="w-100">{t('Projects')}</h2>
+                <h2 className="w-100">{t('Portfolio')}</h2>
             </div>
             <div className="row">
                 <div className="col-8 offset-2">
@@ -49,7 +49,7 @@ const imgMyProject4 = require('./assets/img/www.tabacon.com.jpg');
             </div>
             <div className="row">
                 <div className="col-12 mt-2 pb-2">
-                <h4>GameDev / 3D / VR portfolio</h4>
+                <h4>{t('Game Development')} / 3D / VR</h4>
                 <p><a href="https://rafalfaro.itch.io/">rafalfaro.itch.io</a></p>
                 </div>
             </div>
