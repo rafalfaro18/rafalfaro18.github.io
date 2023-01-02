@@ -29,6 +29,11 @@ const imgMyProject4 = require('./assets/img/www.tabacon.com.jpg');
                 </div>
             </div>
             <div className="row">
+                <div className="col-12 mt-2 pb-2">
+                    <h4>Web Development</h4>
+                </div>
+            </div>
+            <div className="row">
                 <div className="col-md-4 offset-md-2 mt-2 pb-2">
                     <img alt="" className="img-fluid" src={imgMyProject1} />
                 </div>
@@ -40,6 +45,12 @@ const imgMyProject4 = require('./assets/img/www.tabacon.com.jpg');
                 </div>
                 <div className="col-md-4 mt-2 pb-2">
                     <img alt="" className="img-fluid" src={imgMyProject4} />
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12 mt-2 pb-2">
+                <h4>GameDev / 3D / VR portfolio</h4>
+                <p><a href="https://rafalfaro.itch.io/">rafalfaro.itch.io</a></p>
                 </div>
             </div>
         </div>

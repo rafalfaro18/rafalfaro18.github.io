@@ -34,6 +34,14 @@
     "3" : {
       "Title" : "Tiempo Completo - Desarrollador Front-end WordPress",
       "Description" : "En este trabajo puse en práctica todas las habilidades adquiridas en puestos anteriores pero también comencé a trabajar más en tareas propias de front-end. Ahí aprendí sobre sub-módulos de Git, desarrollar navwalkers personalizados para WordPress, extender temas padres en WordPress, Webpack y construir y montar imágenes personalizadas de Docker."
+    },
+    "4" : {
+      "Title" : "Full-time - Web Developer Senior Analyst",
+      "Description" : "Develop more WordPress projects including using it as headless CMS for Angular and React clients. Setup CI/CD pipelines to build and deploy the latest project builds. Managed an AWS account and the resources in it for a small team of React developers while also developing myself 50% of the time, I got to create new components and logic, setup AWS services that the applications required, managed security compliance of the AWS resources, configured CI/CD pipelines using AWS resources like CodeCommit, CodeBuild, S3 buckets, Lambda Functions, served webapps from S3 via AWS CloudFront and finally helped deploy the microservices that projects depend on to Kubernetes"
+    },
+    "5" : {
+      "Title" : "Full-time - Application Developer Senior Analyst",
+      "Description" : "Developed custom SDK Apps (MREs) for Altspace VR projects including video players, wearables, triggering different animations baked in altpace kits and GLTF/GLB 3D models, and orchestrate animations between multiple different kit objects. Programmed C# logic for a standalone Unity VR and WebGL project for virtual training, simulation and assessment of an electrical company catalog of different fire hazards. Profiling and fixing peformance bottlenecks of a standalone Unreal Engine VR application. Learned basic 3D modeling and also programmed custom Blender addons made with Python."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1HBoIXgjFtTr92RjTrpF2dN033OOEuj5h1ZKXDrZhOSE/export?format=pdf",
@@ -56,5 +64,18 @@
   "Tools" : "Herramientas",
   "Illustrator & Inkscape" : "Ilustrador e Inkscape",
   "Projects" : "Proyectos",
-  "Contact" : "Contacto"
+  "Contact" : "Contacto",
+  "Now" : "Actual",
+  "January" : "Enero",
+  "February" : "Febrero",
+  "March" : "Marzo",
+  "April" : "Abril",
+  "May" : "Mayo",
+  "June" : "Junio",
+  "July" : "Julio",
+  "August" : "Agosto",
+  "September" : "Septiembre",
+  "October" : "Octubre",
+  "November" : "Noviembre",
+  "December" : "Diciembre"
 }

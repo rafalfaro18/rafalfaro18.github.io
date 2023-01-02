@@ -34,6 +34,14 @@
     "3" : {
       "Title" : "Full-time - Front-end WordPress Developer",
       "Description" : "In this job I worked using all the skills I learned on previous jobs but also started to work more on fron-end tasks. Here I learned about GIT submodules, building custom navwalkers for WordPress, extending WordPress Parent Themes, Webpack and building/deploying custom Docker images."
+    },
+    "4" : {
+      "Title" : "Full-time - Web Developer Senior Analyst",
+      "Description" : "Develop more WordPress projects including using it as headless CMS for Angular and React clients. Setup CI/CD pipelines to build and deploy the latest project builds. Managed an AWS account and the resources in it for a small team of React developers while also developing myself 50% of the time, I got to create new components and logic, setup AWS services that the applications required, managed security compliance of the AWS resources, configured CI/CD pipelines using AWS resources like CodeCommit, CodeBuild, S3 buckets, Lambda Functions, served webapps from S3 via AWS CloudFront and finally helped deploy the microservices that projects depend on to Kubernetes"
+    },
+    "5" : {
+      "Title" : "Full-time - Application Developer Senior Analyst",
+      "Description" : "Developed custom SDK Apps (MREs) for Altspace VR projects including video players, wearables, triggering different animations baked in altpace kits and GLTF/GLB 3D models, and orchestrate animations between multiple different kit objects. Programmed C# logic for a standalone Unity VR and WebGL project for virtual training, simulation and assessment of an electrical company catalog of different fire hazards. Profiling and fixing peformance bottlenecks of a standalone Unreal Engine VR application. Learned basic 3D modeling and also programmed custom Blender addons made with Python."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1nmJ-xjhzjXZ5o7FGsLGMZmVV-dihPPN63EVRm9uvciI/export?format=pdf",
@@ -56,5 +64,17 @@
   "Tools" : "Tools",
   "Illustrator & Inkscape" : "Illustrator & Inkscape",
   "Projects" : "Projects",
-  "Contact" : "Contact"
+  "Contact" : "Contact",
+  "January" : "January",
+  "February" : "February",
+  "March" : "March",
+  "April" : "April",
+  "May" : "May",
+  "June" : "June",
+  "July" : "July",
+  "August" : "August",
+  "September" : "September",
+  "October" : "October",
+  "November" : "November",
+  "December" : "December"
 }

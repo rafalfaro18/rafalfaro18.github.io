@@ -43,20 +43,20 @@ const hrStyle = {
           </div>
           <div className="col-md-12 col-lg-4">
             <p>AWS EC2 <Rating count="4"/></p>
-            <p>{t('Game Development')} <Rating count="4"/></p>
             <p>{t('Test Automation')} <Rating count="4"/></p>
             <p>SQL Server {t('&')} MySQL <Rating count="4"/></p>
+            <p>React <Rating count="4"/></p>
             <p>{t('Continuous Integration/Delivery')} <Rating count="3"/></p>
             <p>NoSQL (Mongo, Firebase) <Rating count="3"/></p>
             <p>{t('Photo, Video & Audio Editing')} <Rating count="3"/></p>
             <p>Scrum <Rating count="3"/></p>
             <p>Laravel <Rating count="3"/></p>
             <p>Drupal <Rating count="3"/></p>
+            <p>{t('Game Development')} <Rating count="3"/></p>
             <p>Visual Basic <Rating count="2"/></p>
             <p>SEO <Rating count="2"/></p>
-            <p>.NET <Rating count="1"/></p>
-            <p>React <Rating count="1"/></p>
-            <p>Angular <Rating count="1"/></p>
+            <p>Angular <Rating count="2"/></p>
+            <p>Python <Rating count="2"/></p>
           </div>
         </div>
         <div className="row">
@@ -87,13 +87,13 @@ const hrStyle = {
           <div className="col-md-12 col-lg-4 offset-lg-2">
             <p>Windows {t('&')} MS Office <Rating count="5" /></p>
             <p>Git {t('&')} Git Flow <Rating count="5" /></p>
-            <p>Lando <Rating count="5" /></p>
+            <p>SourceTree <Rating count="5" /></p>
             <p>MacOS <Rating count="5" /></p>
             <p>Photoshop {t('&')} Gimp <Rating count="5" /></p>
             <p>PHPCS <Rating count="5" /></p>
+            <p>AWS <Rating count="4" /></p>
             <p>Docker - Kubernetes <Rating count="4" /></p>
             <p>Premiere <Rating count="4" /></p>
-            <p>PHP Storm <Rating count="4" /></p>
           </div>
           <div className="col-md-12 col-lg-4">
             <p>Visual Studio {t('&')} Code <Rating count="4" /></p>
@@ -101,10 +101,10 @@ const hrStyle = {
             <p>Jenkins <Rating count="3" /></p>
             <p>Selenium <Rating count="3" /></p>
             <p>Puppeteer <Rating count="3" /></p>
-            <p>Maya <Rating count="3" /></p>
-            <p>Unity <Rating count="3" /></p>
             <p>{t('Illustrator & Inkscape')} <Rating count="3" /></p>
-            <p>Netbeans <Rating count="3" /></p>
+            <p>Unity <Rating count="3" /></p>
+            <p>Unreal Engine <Rating count="3" /></p>
+            <p>Blender <Rating count="2" /></p>
           </div>
         </div>
       </div>
