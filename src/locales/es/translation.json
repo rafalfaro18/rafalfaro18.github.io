@@ -1,10 +1,10 @@
 {
   "Resume": "Curriculum Vitae",
   "ProfileTitle": "Perfil",
-  "Profession": "Soy un Ingeniero en Sistemas Web",
+  "Profession": "Soy un Ingeniero en Sistemas Web y desarrollador de VR / XR / Videojuegos",
   "About me": "Sobre Mi",
   "Download resume": "Descargar CV",
-  "my description": "Soy un Ingeniero en Sistemas y entusiasta de WordPress. Soy costarricense pero también soy fluido en inglés. No soy el típico informático, me gusta salir y soy muy social. Pero si me encantan los videojuegos y también viajar, la cerveza artesanal y todo tipo de comidas. Me gusta ser parte de proyectos retadores e interesantes que sacan lo mejor de mi como ingeniero.",
+  "my description": "Soy un Ingeniero en Sistemas y entusiasta de WordPress actualmente trabajando en desarrollar aplicaciones VR/XR y WebGL con frameworks web y motores de desarrollo de videojuegos Unity y Unreal Engine. Soy costarricense pero también soy fluido en inglés. No soy el típico informático, me gusta salir y soy muy social. Pero si me encantan los videojuegos y también viajar, la cerveza artesanal y todo tipo de comidas. Me gusta ser parte de proyectos retadores e interesantes que sacan lo mejor de mi como ingeniero.",
   "Experiences" : "Experiencias",
   "Education" : "Educación",
   "Educations" : {
@@ -36,12 +36,12 @@
       "Description" : "En este trabajo puse en práctica todas las habilidades adquiridas en puestos anteriores pero también comencé a trabajar más en tareas propias de front-end. Ahí aprendí sobre sub-módulos de Git, desarrollar navwalkers personalizados para WordPress, extender temas padres en WordPress, Webpack y construir y montar imágenes personalizadas de Docker."
     },
     "4" : {
-      "Title" : "Full-time - Web Developer Senior Analyst",
-      "Description" : "Develop more WordPress projects including using it as headless CMS for Angular and React clients. Setup CI/CD pipelines to build and deploy the latest project builds. Managed an AWS account and the resources in it for a small team of React developers while also developing myself 50% of the time, I got to create new components and logic, setup AWS services that the applications required, managed security compliance of the AWS resources, configured CI/CD pipelines using AWS resources like CodeCommit, CodeBuild, S3 buckets, Lambda Functions, served webapps from S3 via AWS CloudFront and finally helped deploy the microservices that projects depend on to Kubernetes"
+      "Title" : "Tiempo Completo - Analista Desarrollador Web Senior",
+      "Description" : "Desarrollé más proyectos WordPress incluyendo su uso como headless CMS para clientes Angular y React. Configuré flujos CI/CD para automatizar el compilado y lanzamiento de nuevas versiones de los diferentes proyectos. Manejé una cuenta AWS completa para un equipo pequeño de desarrolladores React al mismo tiempo desarrollando yo también 50% de mi tiempo, creando nuevos componentes y lógica, configuré servicios AWS requeridos por diferentes aplicaciones, manejé los estándares de seguridad de los diferentes recursos AWS, utilicé servicios AWS para configurar flujos CI/CD: CodeCommit, CodeBuild, S3 buckets, Lambda Functions, configuré aplicaciones web hospedads en buckets S3 utilizando AWS CloudFront y finalmente ayudé a migrar algunos microservicios de varios proyectos a Kubernetes"
     },
     "5" : {
-      "Title" : "Full-time - Application Developer Senior Analyst",
-      "Description" : "Developed custom SDK Apps (MREs) for Altspace VR projects including video players, wearables, triggering different animations baked in altpace kits and GLTF/GLB 3D models, and orchestrate animations between multiple different kit objects. Programmed C# logic for a standalone Unity VR and WebGL project for virtual training, simulation and assessment of an electrical company catalog of different fire hazards. Profiling and fixing peformance bottlenecks of a standalone Unreal Engine VR application. Learned basic 3D modeling and also programmed custom Blender addons made with Python."
+      "Title" : "Tiempo Completo - Analista de Desarrollo de Aplicaciones Senior",
+      "Description" : "Desarrollé SDK Apps (MREs) personalizados para proyectos de Altspace VR incluyendo reproductores de video, accesorios para el avatar, activar diferents animaciones incluidas en kits de Altspace y modelos 3D GLTF/GLB, además de sincronizar animaciones entre varios objetos 3D. Programé lógica en C# para un proyecto VR y para WebGL hecho en Unitypara entrenamientos virtuales, simulación y evaluación de los diferents riesgos de incendio para una compañía eléctrica. También probé y mejoré el desempeño de una plicación VR desarrolada en Unreal Engine además de modificar lógica blueprints pre-existente y agregar logica nueva. Aprendí modelado 3D básico y desarrollé addons personalizados de Blender hechos con Python."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1HBoIXgjFtTr92RjTrpF2dN033OOEuj5h1ZKXDrZhOSE/export?format=pdf",

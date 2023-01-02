@@ -1,10 +1,10 @@
 {
   "Resume": "Resume",
   "ProfileTitle": "Profile",
-  "Profession": "I'm a Web Systems Engineer",
+  "Profession": "I'm a Web Systems Engineer and Game / VR / XR developer",
   "About me": "About Me",
   "Download resume": "Download Resume",
-  "my description": "I’m a web systems engineer and WordPress Enthusiast. I’m Costa Rican but I’m also fluent in english. I’m not the typical geek, i’m outgoing and very social. However I do love video games but also traveling, craft beer and all sorts of food. I like beeing part of interesting and challenging projects that bring out the best of me and my abilities as an engineer.",
+  "my description": "I’m a web systems engineer and WordPress Enthusiast, currently working on VR/XR and WebGL application development with web frameworks and game development engines Unity and Unreal Engine. I’m Costa Rican but I’m also fluent in english. I’m not the typical geek, i’m outgoing and very social. However I do love video games but also traveling, craft beer and all sorts of food. I like beeing part of interesting and challenging projects that bring out the best of me and my abilities as an engineer.",
   "Experiences" : "Experiences",
   "Education" : "Education",
   "Educations" : {
@@ -40,8 +40,8 @@
       "Description" : "Develop more WordPress projects including using it as headless CMS for Angular and React clients. Setup CI/CD pipelines to build and deploy the latest project builds. Managed an AWS account and the resources in it for a small team of React developers while also developing myself 50% of the time, I got to create new components and logic, setup AWS services that the applications required, managed security compliance of the AWS resources, configured CI/CD pipelines using AWS resources like CodeCommit, CodeBuild, S3 buckets, Lambda Functions, served webapps from S3 via AWS CloudFront and finally helped deploy the microservices that projects depend on to Kubernetes"
     },
     "5" : {
-      "Title" : "Full-time - Application Developer Senior Analyst",
-      "Description" : "Developed custom SDK Apps (MREs) for Altspace VR projects including video players, wearables, triggering different animations baked in altpace kits and GLTF/GLB 3D models, and orchestrate animations between multiple different kit objects. Programmed C# logic for a standalone Unity VR and WebGL project for virtual training, simulation and assessment of an electrical company catalog of different fire hazards. Profiling and fixing peformance bottlenecks of a standalone Unreal Engine VR application. Learned basic 3D modeling and also programmed custom Blender addons made with Python."
+      "Title" : "Full-time - Application Development Senior Analyst",
+      "Description" : "Developed custom SDK Apps (MREs) for Altspace VR projects including video players, wearables, triggering different animations baked in altpace kits and GLTF/GLB 3D models, and orchestrate animations between multiple different kit objects. Programmed C# logic for a standalone Unity VR and WebGL project for virtual training, simulation and assessment of an electrical company catalog of different fire hazards. Profiling and fixing peformance bottlenecks of a standalone Unreal Engine VR application besides modifying and adding blueprints logic. Learned basic 3D modeling and also programmed custom Blender addons made with Python."
     }
   },
   "ResumeURL" : "https://docs.google.com/document/d/1nmJ-xjhzjXZ5o7FGsLGMZmVV-dihPPN63EVRm9uvciI/export?format=pdf",
